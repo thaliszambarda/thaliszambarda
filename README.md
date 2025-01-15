@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02297e&height=120&section=header"/>
 
+## Old github
+<a href="https://www.github.com/trelcray/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49A9B7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thalis+Zambarda;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -30,12 +33,12 @@ target="_blank"></a>
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
 
 
 ### Studying in this moment:
 ![NestJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=C21325)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
-![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![CI/CD](https://img.shields.io/badge/ci%2Fcd-0A0A0A?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
